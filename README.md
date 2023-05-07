@@ -3,6 +3,7 @@ CS128 Honors project
 
 Group Name: Lobsters
 Group Members: Abhay Benoy(abhayb2), Udit Karthikeyan(uditk3), Pranav Swaminathan(pswam2), Josh Neela(jneel5)
+
 Project Intro:
 The goal of this project is to program a simple neural network capabable of indentifying handrittwen digits. The training data will come from the MNIST handritten digits dataset which contains thousands of 28 by 28 pixel grayscale images with labels. The neural network will be coded from scratch without any external ML crates.
 
